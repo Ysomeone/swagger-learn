@@ -286,5 +286,5 @@ public class Test {
 
 ![Image text](https://github.com/Ysomeone/swaggerDocument/raw/master/src/main/webapp/resources/images/1572407065(1).png)
 
-[生成文档github链接](https://github.com/Ysomeone/swaggerDocument.git）
+[生成文档github链接](https://github.com/Ysomeone/swaggerDocument.git)
 
